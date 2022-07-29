@@ -192,7 +192,7 @@ marshmallow-enum==1.5.1
 marshmallow-sqlalchemy==0.18.0
 marshmallow==2.19.5
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 mock==3.0.5
 mongomock==3.19.0
 monotonic==1.5
